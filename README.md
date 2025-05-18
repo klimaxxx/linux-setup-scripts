@@ -23,7 +23,7 @@ Este repositório contém uma coleção de scripts destinados a facilitar e auto
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/linux-setup-scripts.git
+   git clone https://github.com/klimaxxx/linux-setup-scripts.git
    cd linux-setup-scripts
    ```
 
